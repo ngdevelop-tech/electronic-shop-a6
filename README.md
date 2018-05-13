@@ -1,2 +1,3 @@
-# electronic-shop-a6
-Electronic Shop Application in Angular 6
+# ElectronicShop Application in Angular 6
+
+This is the tutorial project, developed by http://www.ngdevelop.tech
